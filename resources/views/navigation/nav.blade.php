@@ -3,6 +3,7 @@
 <head>
 
     <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <!--========== CSS ==========-->
     <link rel="stylesheet" href="css/navbar.css">
     <link rel="stylesheet" href="css/detail.css">
@@ -30,9 +31,8 @@
                             <input type="text" class="input-search" placeholder="Type to Search...">
                         </div>
                     </li>
-                    <li class="nav__item"><a href="#home" class="nav__link active-link"><i class='bx bxl-windows  bx-sm' ></i>Windows</a></li>
-                    <li class="nav__item"><a href="#about" class="nav__link"><i class='bx bxl-apple bx-sm'></i>Mac Os</a></li>
-                    <li class="nav__item"><a href="#services" class="nav__link"><i class='bx bxl-android bx-sm' ></i>Android</a></li>
+                    <li class="nav__item"><a href="#pc" class="nav__link active-link"><i class='bx bx-desktop bx-sm me-1'></i>PC</a></li>
+                    <li class="nav__item"><a href="#mobile" class="nav__link"><i class='bx bxl-android bx-sm me-1'></i>Mobile</a></li>
                     <li class="nav__link"><i class='bx bx-moon bx-sm change-theme' id="theme-button"></i></li>
                 </ul>
             </div>
