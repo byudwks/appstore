@@ -9,117 +9,80 @@
             <h2 class="section-title">Latest Update</h2>
 
             <div class="menu__container bd-grid">
+
+                
                 <div class="menu__content">
-                    <img src="assets/img/plate1.png" alt="" class="menu__img">
-                    <h3 class="menu__name">Barbecue salad</h3>
-                    <span class="menu__detail">Delicious dish</span>
-                    <span class="menu__preci">$22.00</span>
-                    <a href="#" class="button menu__button"><i class='bx bxs-download'></i></a>
+                    <img src="/img/corel.png" alt="" class="menu__img">
+                    <h3 class="menu__name">Corel Draw Suit 2023 Full Crack  </h3>
+                    <span class="menu__detail"><i class='bx bxl-apple'></i>MacOs</span>
                 </div>
 
                 <div class="menu__content">
-                    <img src="assets/img/plate2.png" alt="" class="menu__img">
-                    <h3 class="menu__name">Salad with fish</h3>
-                    <span class="menu__detail">Delicious dish</span>
-                    <span class="menu__preci">$12.00</span>
-                    <a href="#" class="button menu__button"><i class='bx bxs-download'></i></a>
+                    <img src="/img/Premier pro.png" alt="" class="menu__img">
+                    <h3 class="menu__name">Adobe Premier Pro 2024</h3>
+                    <span class="menu__detail"><i class='bx bxl-windows'></i>Windows</span>
                 </div>
 
                 <div class="menu__content">
-                    <img src="assets/img/plate3.png" alt="" class="menu__img">
-                    <h3 class="menu__name">Spinach salad</h3>
-                    <span class="menu__detail">Delicious dish</span>
-                    <span class="menu__preci">$9.50</span>
-                    <a href="#" class="button menu__button"><i class='bx bxs-download'></i></a>
+                    <img src="/img/corel.png" alt="" class="menu__img">
+                    <h3 class="menu__name">Corel Draw Suit 2023 Full Crack  </h3>
+                    <span class="menu__detail"><i class='bx bxl-apple'></i>MacOs</span>
+                </div>
+
+                <div class="menu__content">
+                    <img src="/img/Premier pro.png" alt="" class="menu__img">
+                    <h3 class="menu__name">Adobe Premier Pro 2024</h3>
+                    <span class="menu__detail"><i class='bx bxl-windows'></i>Windows</span>
+                </div>
+                <div class="menu__content">
+                    <img src="/img/corel.png" alt="" class="menu__img">
+                    <h3 class="menu__name">Corel Draw Suit 2023 Full Crack  </h3>
+                    <span class="menu__detail"><i class='bx bxl-apple'></i>MacOs</span>
+                </div>
+
+                <div class="menu__content">
+                    <img src="/img/Premier pro.png" alt="" class="menu__img">
+                    <h3 class="menu__name">Adobe Premier Pro 2024</h3>
+                    <span class="menu__detail"><i class='bx bxl-windows'></i>Windows</span>
+                </div>
+
+                <div class="menu__content">
+                    <img src="/img/corel.png" alt="" class="menu__img">
+                    <h3 class="menu__name">Corel Draw Suit 2023 Full Crack  </h3>
+                    <span class="menu__detail"><i class='bx bxl-apple'></i>MacOs</span>
+                </div>
+
+                <div class="menu__content">
+                    <img src="/img/Premier pro.png" alt="" class="menu__img">
+                    <h3 class="menu__name">Adobe Premier Pro 2024</h3>
+                    <span class="menu__detail"><i class='bx bxl-windows'></i>Windows</span>
+                </div>
+
+                <div class="menu__content">
+                    <img src="/img/corel.png" alt="" class="menu__img">
+                    <h3 class="menu__name">Corel Draw Suit 2023 Full Crack  </h3>
+                    <span class="menu__detail"><i class='bx bxl-apple'></i>MacOs</span>
+                </div>
+
+                <div class="menu__content">
+                    <img src="/img/Premier pro.png" alt="" class="menu__img">
+                    <h3 class="menu__name">Adobe Premier Pro 2024</h3>
+                    <span class="menu__detail"><i class='bx bxl-windows'></i>Windows</span>
                 </div>
                 
                 <div class="menu__content">
-                    <img src="assets/img/plate3.png" alt="" class="menu__img">
-                    <h3 class="menu__name">Spinach salad</h3>
-                    <span class="menu__detail">Delicious dish</span>
-                    <span class="menu__preci">$9.50</span>
-                    <a href="#" class="button menu__button"><i class='bx bxs-download'></i></a>
-                </div>
-                <div class="menu__content">
-                    <img src="assets/img/plate2.png" alt="" class="menu__img">
-                    <h3 class="menu__name">Salad with fish</h3>
-                    <span class="menu__detail">Delicious dish</span>
-                    <span class="menu__preci">$12.00</span>
-                    <a href="#" class="button menu__button"><i class='bx bxs-download'></i></a>
+                    <img src="/img/corel.png" alt="" class="menu__img">
+                    <h3 class="menu__name">Corel Draw Suit 2023 Full Crack  </h3>
+                    <span class="menu__detail"><i class='bx bxl-apple'></i>MacOs</span>
                 </div>
 
                 <div class="menu__content">
-                    <img src="assets/img/plate3.png" alt="" class="menu__img">
-                    <h3 class="menu__name">Spinach salad</h3>
-                    <span class="menu__detail">Delicious dish</span>
-                    <span class="menu__preci">$9.50</span>
-                    <a href="#" class="button menu__button"><i class='bx bxs-download'></i></a>
+                    <img src="/img/Premier pro.png" alt="" class="menu__img">
+                    <h3 class="menu__name">Adobe Premier Pro 2024</h3>
+                    <span class="menu__detail"><i class='bx bxl-windows'></i>Windows</span>
                 </div>
 
-                <div class="menu__content">
-                    <img src="assets/img/plate3.png" alt="" class="menu__img">
-                    <h3 class="menu__name">Spinach salad</h3>
-                    <span class="menu__detail">Delicious dish</span>
-                    <span class="menu__preci">$9.50</span>
-                    <a href="#" class="button menu__button"><i class='bx bxs-download'></i></a>
-                </div>
-
-                <div class="menu__content">
-                    <img src="assets/img/plate1.png" alt="" class="menu__img">
-                    <h3 class="menu__name">Barbecue salad</h3>
-                    <span class="menu__detail">Delicious dish</span>
-                    <span class="menu__preci">$22.00</span>
-                    <a href="#" class="button menu__button"><i class='bx bxs-download'></i></a>
-                </div>
-
-                <div class="menu__content">
-                    <img src="assets/img/plate2.png" alt="" class="menu__img">
-                    <h3 class="menu__name">Salad with fish</h3>
-                    <span class="menu__detail">Delicious dish</span>
-                    <span class="menu__preci">$12.00</span>
-                    <a href="#" class="button menu__button"><i class='bx bxs-download'></i></a>
-                </div>
-
-                <div class="menu__content">
-                    <img src="assets/img/plate3.png" alt="" class="menu__img">
-                    <h3 class="menu__name">Spinach salad</h3>
-                    <span class="menu__detail">Delicious dish</span>
-                    <span class="menu__preci">$9.50</span>
-                    <a href="#" class="button menu__button"><i class='bx bxs-download'></i></a>
-                </div>
-                
-                <div class="menu__content">
-                    <img src="assets/img/plate3.png" alt="" class="menu__img">
-                    <h3 class="menu__name">Spinach salad</h3>
-                    <span class="menu__detail">Delicious dish</span>
-                    <span class="menu__preci">$9.50</span>
-                    <a href="#" class="button menu__button"><i class='bx bxs-download'></i></a>
-                </div>
-                <div class="menu__content">
-                    <img src="assets/img/plate2.png" alt="" class="menu__img">
-                    <h3 class="menu__name">Salad with fish</h3>
-                    <span class="menu__detail">Delicious dish</span>
-                    <span class="menu__preci">$12.00</span>
-                    <a href="#" class="button menu__button"><i class='bx bxs-download'></i></a>
-                </div>
-
-                <div class="menu__content">
-                    <img src="assets/img/plate3.png" alt="" class="menu__img">
-                    <h3 class="menu__name">Spinach salad</h3>
-                    <span class="menu__detail">Delicious dish</span>
-                    <span class="menu__preci">$9.50</span>
-                    <a href="#" class="button menu__button"><i class='bx bxs-download'></i></a>
-                </div>
-
-                <div class="menu__content">
-                    <img src="assets/img/plate3.png" alt="" class="menu__img">
-                    <h3 class="menu__name">Spinach salad</h3>
-                    <span class="menu__detail">Delicious dish</span>
-                    <span class="menu__preci">$9.50</span>
-                    <a href="#" class="button menu__button"><i class='bx bxs-download'></i></a>
-                </div>
             </div>
-
         </section>
 
     </main>

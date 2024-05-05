@@ -342,39 +342,32 @@ img{
   border-radius: .5rem;
   box-shadow: 0 2px 4px rgba(3,74,40,.15);
   padding: .75rem;
-  height: 200px;
+  height: auto;
 }
 
 .menu__img{
-  width: 100px;
+  width: 100%;
   align-self: center;
   margin-bottom: var(--mb-2);
+  margin-top: 10px;
 }
 
-.menu__name, .menu__preci{
+.menu__name{
   font-weight: var(--font-semi-bold);
   color: var(--title-color);
 }
 
 .menu__name{
-  font-size: var(--normal-font-size);
-}
-
-.menu__detail, .menu__preci{
-  font-size: var(--small-font-size);
+  font-size: 18px;
 }
 
 .menu__detail{
-  margin-bottom: var(--mb-1);
+  margin-top: 15px;
+  margin-bottom: 3px;
 }
 
-.menu__button{
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  display: flex;
-  padding: .625rem .813rem;
-  border-radius: .5rem 0 .5rem 0;
+.menu__detail i {
+  margin-right: 10px;
 }
 
 /*========== FOOTER ==========*/
