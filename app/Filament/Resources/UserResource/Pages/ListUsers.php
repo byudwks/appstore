@@ -5,6 +5,8 @@ namespace App\Filament\Resources\UserResource\Pages;
 use App\Filament\Resources\UserResource;
 use Filament\Actions;
 use Filament\Resources\Pages\ListRecords;
+use Filament\Tables\Columns\TextColumn;
+
 
 class ListUsers extends ListRecords
 {
@@ -14,6 +16,7 @@ class ListUsers extends ListRecords
     {
         return [
             Actions\CreateAction::make(),
+            TextColumn::make('Search'),
         ];
     }
 }

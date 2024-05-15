@@ -13,8 +13,11 @@ use Filament\Tables\Table;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\SoftDeletingScope;
 use Illuminate\Support\Facades\Redirect;
-
+use Filament\Tables\Filters\Filter;
 use function Laravel\Prompts\table;
+use Filament\Tables\Columns\TextColumn;
+use Filament\Tables\Filters\QueryBuilder;
+use Filament\Tables\Filters\QueryBuilder\Constraints\TextConstraint;
 
 class UserResource extends Resource
 {
@@ -41,10 +44,8 @@ class UserResource extends Resource
                 Forms\Components\TextInput::make('username'),
                 Forms\Components\TextInput::make('email'),
                 Forms\Components\TextInput::make('password'),
-            ])
-            ->onSuccess(function () {
-                return Redirect::redirectResponse('/'); // Ganti rute '/' dengan rute yang diinginkan
-            });
+            ]);
+
     }
 
     public static function table(Table $table): Table
@@ -57,7 +58,6 @@ class UserResource extends Resource
                 Tables\Columns\TextColumn::make('email'),
             ])
             ->filters([
-                //
             ])
             ->actions([
                 Tables\Actions\EditAction::make(),
@@ -71,6 +71,7 @@ class UserResource extends Resource
             ])
             ->emptyStateActions([
                 Tables\Actions\CreateAction::make(),
+               
             ]);
     }
     
